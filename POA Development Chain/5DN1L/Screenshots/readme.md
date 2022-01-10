@@ -2,7 +2,7 @@
 
 * First download the hw18.json file from the repository
 
-* Then wwe create two nodes' data directory using the geth command and a couple of command line flags by running the following line in your terminal window (Git Bash in Windows):
+* Then we create two nodes' data directory using the geth command and a couple of command line flags by running the following line in your terminal window (Git Bash in Windows):
 
 ./geth account new --datadir node1
 ./geth account new --datadir node2
@@ -26,7 +26,7 @@
 
 * Open MyCrypto GUI wallet to connect to the node with the exposed RPC port.
 
-* Click on the change network. Then select a custom network, put both network name and node name to "hw18" and include the chain ID 333, and use ETH as the currency. Enter http://127.0.0.1:8545as the URL. Click Save & use Customer Node.
+* Click on the change network. Then select a custom network, put both network name and node name to "hw18" and include the chain ID 333, and use ETH as the currency. Enter http://127.0.0.1:8545 as the URL. Click Save & use Customer Node.
 
 * After connecting to the custom network in MyCrypto, it can be tested by sending money between accounts.
 
