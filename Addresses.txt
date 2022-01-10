@@ -1,0 +1,8 @@
+pw: fintech
+
+NODE 1 Address: 0x483594912b710C74B782Bd889Cf82F48E9eA0c79
+NODE 2 Address: 0x634dB5E90fE63c2288cDB988a93cEc336Fc531Af
+
+enode://cb83c2000f7473556a4ad21a2dd5279fb25312018e6a200a1a7fc86dfb579feb090bd521ad38b7b848a63d8aa90ff6939a568efa919e9d3c58fe047c03fe0b1f@127.0.0.1:30303
+
+./geth --datadir node2 --unlock "0x634dB5E90fE63c2288cDB988a93cEc336Fc531Af" --mine --port 30304 --bootnodes "enode://cb83c2000f7473556a4ad21a2dd5279fb25312018e6a200a1a7fc86dfb579feb090bd521ad38b7b848a63d8aa90ff6939a568efa919e9d3c58fe047c03fe0b1f@127.0.0.1:30303" --ipcdisable --allow-insecure-unlock
