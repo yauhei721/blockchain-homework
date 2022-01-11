@@ -22,7 +22,9 @@
 
 * We then open another terminal window and navigate to the same directory as before. We launch the second node and configure it to let us talk to the chain via RPC.
 
+```
 ./geth --datadir node2 --port 30304 --rpc --bootnodes "enode://<replace with node1 enode address>" --ipcdisable
+```
 
 * Open MyCrypto GUI wallet to connect to the node with the exposed RPC port.
 
