@@ -4,17 +4,23 @@
 
 * Then we create two nodes' data directory using the geth command and a couple of command line flags by running the following line in your terminal window (Git Bash in Windows):
 
+```
 ./geth account new --datadir node1
 ./geth account new --datadir node2
+````
 
 * Next we initialize the nodes with hw18 network settings. To initialize first node and second node, run following command respectively: 
 
+```
 ./geth init hw18.json --datadir node1
 ./geth init hw18.json --datadir node2
+```
 
 * Launch the first node into mining mode with the following command:
 
+```
 ./geth --datadir node1 --mine --minerthreads 1
+```
 
 * The --mine flag tells the node to mine new blocks.
 
