@@ -20,7 +20,7 @@ In 2019, besides offers bitcoin-backed fiat loans, now also offers dollar-pegged
 
 * [BITCOIN-BASED LENDING AND SAVINGS PLATFORM LEDN RAISES 2.7 MILLION](https://bitcoinmagazine.com/markets/bitcoin-based-lending-and-savings-platform-ledn-raises-2-7-million)
 
-* [Lock BTC, Get DAI: Lending Firm Bridges Bitcoin-DeFi Divide in Latin America](https://bitcoinmagazine.com/articles/tokenfunder-wins-approval-first-osc-regulated-ico-launch)
+* [TokenFunder Wins Approval to First OSC Regulated ICO Launch](https://bitcoinmagazine.com/articles/tokenfunder-wins-approval-first-osc-regulated-ico-launch)
 
 * [Lock BTC, Get DAI: Lending Firm Bridges Bitcoin-DeFi Divide in Latin America](https://www.coindesk.com/markets/2019/10/29/lock-btc-get-dai-lending-firm-bridges-bitcoin-defi-divide-in-latin-america/)
 
