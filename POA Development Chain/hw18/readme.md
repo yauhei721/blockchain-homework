@@ -50,4 +50,6 @@
 
 * You should see the transaction go from Pending to Successful in around the same blocktime you set in the genesis.
 
+![node mining](Screenshots/Transaction.png)
+
 * Finally, You can click the Check TX Status button to update the status.
