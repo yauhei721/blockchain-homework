@@ -22,4 +22,6 @@ In 2019, besides offers bitcoin-backed fiat loans, now also offers dollar-pegged
 
 * [Lock BTC, Get DAI: Lending Firm Bridges Bitcoin-DeFi Divide in Latin America](https://bitcoinmagazine.com/articles/tokenfunder-wins-approval-first-osc-regulated-ico-launch)
 
+* [Lock BTC, Get DAI: Lending Firm Bridges Bitcoin-DeFi Divide in Latin America](https://www.coindesk.com/markets/2019/10/29/lock-btc-get-dai-lending-firm-bridges-bitcoin-defi-divide-in-latin-america/)
+
 
