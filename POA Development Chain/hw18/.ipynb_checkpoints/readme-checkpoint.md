@@ -1,13 +1,21 @@
 # The HW18 Network
 
-* First download the hw18.json file from the repository
+## Documentation that explains how to start the network that is actually requested by the homework instructions
 
-* Then we create two nodes' data directory using the geth command and a couple of command line flags by running the following line in your terminal window (Git Bash in Windows):
+* First download the hw18.json file from the repository.
 
+* Next we create the genesis block by running puppeth and import the hw18.json
+
+Run 
 ```
-./geth account new --datadir node1
-./geth account new --datadir node2
-````
+./puppeth 
+```
+
+* Named the network hw18, and select the option to configure a new genesis block.
+
+* Choose "import already exist genesis" and provide the path to the downloaded json file in step 1.
+
+![Step by Step](./Screenshots/CreateNG.jpg)
 
 * Next we initialize the nodes with hw18 network settings. To initialize first node and second node, run following command respectively: 
 
@@ -15,6 +23,13 @@
 ./geth init hw18.json --datadir node1
 ./geth init hw18.json --datadir node2
 ```
+
+* Then we create two nodes' data directory using the geth command and a couple of command line flags by running the following line in your terminal window (Git Bash in Windows):
+
+```
+./geth account new --datadir node1
+./geth account new --datadir node2
+````
 
 * Launch the first node into mining mode with the following command:
 
