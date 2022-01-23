@@ -15,7 +15,7 @@ Run
 
 * Choose "import already exist genesis" and provide the path to the downloaded json file in step 1.
 
-![Step by Step](./Screenshots/ConfigureNG - Copy.jpg)
+![Step by Step](./Screenshots/ConfigureNG-Copy.jpg)
 
 * Next we initialize the nodes with hw18 network settings. To initialize first node and second node, run following command respectively: 
 
